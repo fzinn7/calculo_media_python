@@ -54,7 +54,7 @@ Status: APROVADO!
 ### 2. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/sistema-notas.git
+git clone https://github.com/fzinn7/calculo_media_python.git
 ```
 
 ### 3. Entre na pasta
